@@ -2,6 +2,7 @@
 ## 📦 用于 `zashboard` 面板的图标库
 
 ### 图标预览
+<div align="center">
 
 ![AI](https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/AI.svg)
 ![BiliBili](https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/BiliBili.svg)
@@ -16,3 +17,5 @@
 ![Korea](https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/Korea.svg)
 ![Singapore](https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/Singapore.svg)
 ![USA](https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/USA.svg)
+
+</div>
