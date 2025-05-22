@@ -6,7 +6,6 @@
   <img src="https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/BiliBili.svg" width="128">
   <img src="https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/Github.svg" width="128">
   <img src="https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/Google.svg" width="128">
-  <img src="https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/Graph.svg" width="128">
   <img src="https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/NETFLIX.svg" width="128">
   <img src="https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/YouTube.svg" width="128">
   <img src="https://raw.githubusercontent.com/ffuqiangg/icon/main/svg/Germany.svg" width="128">
